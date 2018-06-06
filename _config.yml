@@ -1,5 +1,1 @@
 theme: jekyll-theme-tactile
-deploy:
-    type:git
-    repositoty:https://github.com/peonyhu/peonyhu.github.io.git
-    branch:master
